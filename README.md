@@ -5,6 +5,7 @@
 Click 📝 [HERE](https://code4life.net/about/) to view my resume in detail.
 
 ## About Me
-- ⌨️ Senior Backend Developer with 6 years of experience
+- ⌨️ Day job: Senior Backend Developer with 8+ years of experience
+- 👨🏻‍💻 Part-time venture: Building App
 - ✍️ Blogging and tech reviews at CODE4LIFE.NET
 - 🏃 City Walk 
